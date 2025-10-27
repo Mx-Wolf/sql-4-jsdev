@@ -62,7 +62,7 @@ INSERT INTO demo."Accomodations" (
     "AccomodationsId", "AccomodationName", "Rating", "AccomodationTypesId", "HotelChainsId", "CountriesId", "CitiesCountriesId"
 ) VALUES
 (1, 'Istanbul Grand Hotel (European Side)', 5, 1, 1, 1, 1),   -- Istanbul, Turkey, MedSun Resorts, Europe
-(2, 'Istanbul Riverside Inn (Asian Side)', 4, 4, NULL, 1, 2), -- Istanbul, Turkey, Boutique, Asia
+(2, 'Istanbul Riverside Inn (Asian Side)', 4, 4, NULL, 1, 1), -- Istanbul, Turkey, Boutique, Asia
 (3, 'Antalya Beach Resort', 4, 2, 2, 1, 3),                   -- Antalya, Turkey, BlueWave Hotels
 (4, 'Cairo Family House', 3, 3, NULL, 2, 4),                  -- Cairo, Egypt, Family House
 (5, 'Alexandria Boutique', 4, 4, 3, 2, 5),                    -- Alexandria, Egypt, Atlas Hospitality
