@@ -4,6 +4,6 @@ CREATE TABLE IF NOT EXISTS demo."Accomodations" (
     "Rating" INT,
     "AccomodationTypesId" INT NOT NULL REFERENCES demo."AccomodationTypes"("AccomodationTypesId"),
     "HotelChainsId" INT REFERENCES demo."HotelChains"("HotelChainsId"),
-    "CountriesId" INT NOT NULL REFERENCES demo."Countries"("CountriesId"),
-    "CitiesCountriesId" INT NOT NULL REFERENCES demo."CitiesCountries"("CitiesCountriesId")
+    "CitiesId" INT NOT NULL REFERENCES demo."Cities"("CitiesId"),
+    "ContinentsId" INT NOT NULL REFERENCES demo."Continents"("ContinentsId")
 );

@@ -6,5 +6,4 @@
 \i ./accomodation-types.sql
 \i ./hotel-chains.sql
 \i ./cities.sql
-\i ./cities-countries.sql
 \i ./accomodations.sql
