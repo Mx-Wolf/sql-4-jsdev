@@ -1,11 +1,11 @@
 -- Continents
-INSERT INTO demo."Continents" ("ContinentsId", "ContinentName") VALUES
+INSERT INTO d101."Continents" ("ContinentsId", "ContinentName") VALUES
 (1, 'Europe'),
 (2, 'Asia'),
 (3, 'Africa');
 
 -- Countries
-INSERT INTO demo."Countries" ("CountriesId", "CountryName") VALUES
+INSERT INTO d101."Countries" ("CountriesId", "CountryName") VALUES
 (1, 'Turkey'),
 (2, 'Egypt'),
 (3, 'Morocco'),
@@ -14,7 +14,7 @@ INSERT INTO demo."Countries" ("CountriesId", "CountryName") VALUES
 (6, 'Greece');
 
 -- Cities
-INSERT INTO demo."Cities" ("CitiesId", "CityName", "CountriesId") VALUES
+INSERT INTO d101."Cities" ("CitiesId", "CityName", "CountriesId") VALUES
 (1, 'Istanbul', 1),      -- Turkey
 (2, 'Antalya', 1),       -- Turkey
 (3, 'Cairo', 2),         -- Egypt
@@ -28,14 +28,14 @@ INSERT INTO demo."Cities" ("CitiesId", "CityName", "CountriesId") VALUES
 (11, 'Santorini', 6);    -- Greece
 
 -- AccomodationTypes
-INSERT INTO demo."AccomodationTypes" ("AccomodationTypesId", "AccomodationTypeName") VALUES
+INSERT INTO d101."AccomodationTypes" ("AccomodationTypesId", "AccomodationTypeName") VALUES
 (1, 'Hotel'),
 (2, 'Resort'),
 (3, 'Family House'),
 (4, 'Boutique Hotel');
 
 -- HotelChains
-INSERT INTO demo."HotelChains" ("HotelChainsId", "HotelChainName") VALUES
+INSERT INTO d101."HotelChains" ("HotelChainsId", "HotelChainName") VALUES
 (1, 'MedSun Resorts'),
 (2, 'BlueWave Hotels'),
 (3, 'Atlas Hospitality');
@@ -43,7 +43,7 @@ INSERT INTO demo."HotelChains" ("HotelChainsId", "HotelChainName") VALUES
 
 
 -- Accomodations
-INSERT INTO demo."Accomodations" (
+INSERT INTO d101."Accomodations" (
     "AccomodationsId", "AccomodationName", "Rating", "AccomodationTypesId", "HotelChainsId", "CitiesId", "ContinentsId"
 ) VALUES
 (1, 'Istanbul Grand Hotel', 5, 1, 1, 1, 1),         -- Istanbul, Turkey, Europe
