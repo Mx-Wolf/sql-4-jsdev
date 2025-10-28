@@ -1,6 +1,6 @@
 -- psql -U <username> -d <database> -f init.sql 
 -- to initialize the database
-\i ./schema-demo.sql
+\i ./schema-d101.sql
 \i ./continents.sql
 \i ./countries.sql
 \i ./accomodation-types.sql
