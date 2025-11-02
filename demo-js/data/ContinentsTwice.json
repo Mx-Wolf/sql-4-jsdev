@@ -1,0 +1,26 @@
+[
+  {
+    "ContinentsId": 1,
+    "ContinentName": "Europe"
+  },
+  {
+    "ContinentsId": 2,
+    "ContinentName": "Asia"
+  },
+  {
+    "ContinentsId": 3,
+    "ContinentName": "Africa"
+  },
+  {
+    "ContinentsId": 1,
+    "ContinentName": "Europe"
+  },
+  {
+    "ContinentsId": 2,
+    "ContinentName": "Asia"
+  },
+  {
+    "ContinentsId": 3,
+    "ContinentName": "Africa"
+  }
+]
