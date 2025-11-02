@@ -1,0 +1,110 @@
+[
+  {
+    "AccomodationsId": 1,
+    "AccomodationName": "Istanbul Grand Hotel",
+    "Rating": 5,
+    "AccomodationTypesId": 1,
+    "HotelChainsId": 1,
+    "CitiesId": 1,
+    "ContinentsId": 1
+  },
+  {
+    "AccomodationsId": 2,
+    "AccomodationName": "Istanbul Riverside Inn",
+    "Rating": 4,
+    "AccomodationTypesId": 4,
+    "HotelChainsId": null,
+    "CitiesId": 1,
+    "ContinentsId": 2
+  },
+  {
+    "AccomodationsId": 3,
+    "AccomodationName": "Antalya Beach Resort",
+    "Rating": 4,
+    "AccomodationTypesId": 2,
+    "HotelChainsId": 2,
+    "CitiesId": 2,
+    "ContinentsId": 2
+  },
+  {
+    "AccomodationsId": 4,
+    "AccomodationName": "Cairo Family House",
+    "Rating": 3,
+    "AccomodationTypesId": 3,
+    "HotelChainsId": null,
+    "CitiesId": 3,
+    "ContinentsId": 3
+  },
+  {
+    "AccomodationsId": 5,
+    "AccomodationName": "Alexandria Boutique",
+    "Rating": 4,
+    "AccomodationTypesId": 4,
+    "HotelChainsId": 3,
+    "CitiesId": 8,
+    "ContinentsId": 3
+  },
+  {
+    "AccomodationsId": 6,
+    "AccomodationName": "Marrakesh Oasis",
+    "Rating": 5,
+    "AccomodationTypesId": 2,
+    "HotelChainsId": 1,
+    "CitiesId": 4,
+    "ContinentsId": 3
+  },
+  {
+    "AccomodationsId": 7,
+    "AccomodationName": "Casablanca Central Hotel",
+    "Rating": 4,
+    "AccomodationTypesId": 1,
+    "HotelChainsId": 2,
+    "CitiesId": 9,
+    "ContinentsId": 3
+  },
+  {
+    "AccomodationsId": 8,
+    "AccomodationName": "Barcelona Seaside",
+    "Rating": 5,
+    "AccomodationTypesId": 2,
+    "HotelChainsId": 1,
+    "CitiesId": 5,
+    "ContinentsId": 1
+  },
+  {
+    "AccomodationsId": 9,
+    "AccomodationName": "Rome Heritage Inn",
+    "Rating": 4,
+    "AccomodationTypesId": 4,
+    "HotelChainsId": null,
+    "CitiesId": 6,
+    "ContinentsId": 1
+  },
+  {
+    "AccomodationsId": 10,
+    "AccomodationName": "Naples Bay Resort",
+    "Rating": 5,
+    "AccomodationTypesId": 2,
+    "HotelChainsId": 2,
+    "CitiesId": 10,
+    "ContinentsId": 1
+  },
+  {
+    "AccomodationsId": 11,
+    "AccomodationName": "Athens Acropolis View",
+    "Rating": 4,
+    "AccomodationTypesId": 1,
+    "HotelChainsId": 3,
+    "CitiesId": 7,
+    "ContinentsId": 1
+  },
+  {
+    "AccomodationsId": 12,
+    "AccomodationName": "Santorini Sunset Villas",
+    "Rating": 5,
+    "AccomodationTypesId": 2,
+    "HotelChainsId": null,
+    "CitiesId": 11,
+    "ContinentsId": 1
+  }
+]
