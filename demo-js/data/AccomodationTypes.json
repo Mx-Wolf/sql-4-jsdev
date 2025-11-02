@@ -1,0 +1,18 @@
+[
+  {
+    "AccomodationTypesId": 1,
+    "AccomodationTypeName": "Hotel"
+  },
+  {
+    "AccomodationTypesId": 2,
+    "AccomodationTypeName": "Resort"
+  },
+  {
+    "AccomodationTypesId": 3,
+    "AccomodationTypeName": "Family House"
+  },
+  {
+    "AccomodationTypesId": 4,
+    "AccomodationTypeName": "Boutique Hotel"
+  }
+]
