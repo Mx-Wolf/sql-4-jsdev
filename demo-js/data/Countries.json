@@ -1,0 +1,26 @@
+[
+  {
+    "CountriesId": 1,
+    "CountryName": "Turkey"
+  },
+  {
+    "CountriesId": 2,
+    "CountryName": "Egypt"
+  },
+  {
+    "CountriesId": 3,
+    "CountryName": "Morocco"
+  },
+  {
+    "CountriesId": 4,
+    "CountryName": "Spain"
+  },
+  {
+    "CountriesId": 5,
+    "CountryName": "Italy"
+  },
+  {
+    "CountriesId": 6,
+    "CountryName": "Greece"
+  }
+]

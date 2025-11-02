@@ -1,0 +1,57 @@
+[
+  {
+    "CitiesId": 1,
+    "CityName": "Istanbul",
+    "CountriesId": 1
+  },
+  {
+    "CitiesId": 2,
+    "CityName": "Antalya",
+    "CountriesId": 1
+  },
+  {
+    "CitiesId": 3,
+    "CityName": "Cairo",
+    "CountriesId": 2
+  },
+  {
+    "CitiesId": 4,
+    "CityName": "Marrakesh",
+    "CountriesId": 3
+  },
+  {
+    "CitiesId": 5,
+    "CityName": "Barcelona",
+    "CountriesId": 4
+  },
+  {
+    "CitiesId": 6,
+    "CityName": "Rome",
+    "CountriesId": 5
+  },
+  {
+    "CitiesId": 7,
+    "CityName": "Athens",
+    "CountriesId": 6
+  },
+  {
+    "CitiesId": 8,
+    "CityName": "Alexandria",
+    "CountriesId": 2
+  },
+  {
+    "CitiesId": 9,
+    "CityName": "Casablanca",
+    "CountriesId": 3
+  },
+  {
+    "CitiesId": 10,
+    "CityName": "Naples",
+    "CountriesId": 5
+  },
+  {
+    "CitiesId": 11,
+    "CityName": "Santorini",
+    "CountriesId": 6
+  }
+]
